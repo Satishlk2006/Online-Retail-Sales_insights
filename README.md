@@ -1,5 +1,6 @@
+# Online Retail Sales Analysis Dashboard (Excel Project)
 
-## 📌 Project Overview
+## Project Overview
 
 This project is an end-to-end **sales data analysis** performed in **Microsoft Excel** using an Online Retail dataset. The project focuses on transforming raw transactional data into meaningful business insights through data cleaning, aggregation, visualization, and interactive dashboarding.
 
@@ -17,7 +18,7 @@ The objective is to demonstrate practical Excel skills commonly used in data ana
 
 ---
 
-# 🎯 Business Objective
+# Business Objective
 
 The primary objectives of this project are to:
 
@@ -32,7 +33,7 @@ The primary objectives of this project are to:
 
 ---
 
-# 📂 Dataset Description
+# Dataset Description
 
 The dataset contains online retail transaction records including:
 
@@ -48,7 +49,7 @@ The analysis focuses on cleaned transactional sales data prepared for reporting 
 
 ---
 
-# 🛠 Tools Used
+# Tools Used
 
 - Microsoft Excel
 - Power Query
@@ -61,7 +62,7 @@ The analysis focuses on cleaned transactional sales data prepared for reporting 
 
 ---
 
-# 📁 Workbook Structure
+#  Workbook Structure
 
 | Worksheet | Description |
 |------------|-------------|
@@ -76,7 +77,7 @@ The analysis focuses on cleaned transactional sales data prepared for reporting 
 
 ---
 
-# 📈 Dashboard Features
+#  Dashboard Features
 
 The dashboard provides an interactive view of business performance using:
 
@@ -94,7 +95,7 @@ Users can filter dashboard results using slicers and timeline controls for flexi
 
 ---
 
-# 📊 Key Performance Metrics
+#  Key Performance Metrics
 
 | Metric | Value |
 |---------|-------|
@@ -108,7 +109,7 @@ Users can filter dashboard results using slicers and timeline controls for flexi
 
 ---
 
-# 🔍 Key Insights
+#  Key Insights
 
 ### Revenue Performance
 
@@ -144,7 +145,7 @@ Sales show noticeable growth leading into the final quarter of the year.
 
 ---
 
-# 💡 Business Recommendations
+#  Business Recommendations
 
 Based on the analysis:
 
@@ -156,7 +157,7 @@ Based on the analysis:
 
 ---
 
-# 💼 Skills Demonstrated
+#  Skills Demonstrated
 
 This project demonstrates practical data analytics skills using Microsoft Excel, including:
 
@@ -175,7 +176,7 @@ This project demonstrates practical data analytics skills using Microsoft Excel,
 
 ---
 
-# 📷 Dashboard Preview
+#  Dashboard Preview
 
 > *Add a screenshot of your Excel dashboard here.*
 
@@ -193,7 +194,7 @@ Markdown example:
 
 ---
 
-# 🚀 Project Outcome
+#  Project Outcome
 
 This project demonstrates how Microsoft Excel can be used to perform a complete sales analysis workflow—from raw data preparation to interactive dashboard creation and business insight reporting.
 
@@ -201,7 +202,7 @@ The dashboard enables users to quickly explore sales performance, product trends
 
 ---
 
-# 📌 Conclusion
+#  Conclusion
 
 This project showcases a structured approach to retail sales analysis using Microsoft Excel. By combining data cleaning, Power Query, Pivot Tables, Pivot Charts, interactive dashboarding, and business insight writing, the project transforms raw transactional data into meaningful information that supports business decision-making.
 
