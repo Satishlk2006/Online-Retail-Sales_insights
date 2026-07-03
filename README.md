@@ -1,7 +1,3 @@
-I've prepared a professional `README.md` in Markdown format that is suitable for a GitHub portfolio project. It avoids exaggerated claims and accurately reflects an Excel-based data analytics project.
-
-````markdown
-# 📊 Online Retail Sales Analysis Dashboard (Microsoft Excel)
 
 ## 📌 Project Overview
 
